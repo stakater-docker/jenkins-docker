@@ -55,7 +55,7 @@ icon-shim:latest
 jackson2-api:latest
 javadoc:latest
 jquery:1.11.2-0
-jquery-detached:latest
+jquery-detached:1.2.1
 junit:latest
 kerberos-sso:latest
 ldap:latest
@@ -96,7 +96,7 @@ sse-gateway:latest
 ssh-agent:latest
 ssh-credentials:latest
 ssh-slaves:latest
-structs:latest
+structs:1.6
 subversion:latest
 timestamper:latest
 token-macro:latest
@@ -107,8 +107,8 @@ windows-slaves:latest
 workflow-aggregator:latest
 workflow-api:latest
 workflow-basic-steps:latest
-workflow-cps:latest
-workflow-cps-global-lib:latest
+workflow-cps:2.29
+workflow-cps-global-lib:2.7
 workflow-durable-task-step:2.8
 workflow-job:2.10
 workflow-multibranch:2.12
