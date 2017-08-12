@@ -22,8 +22,8 @@ bouncycastle-api:latest
 branch-api:2.0.5
 build-timeout:latest
 cloudbees-folder:latest
-credentials:latest
-credentials-binding:latest
+credentials:2.1.13
+credentials-binding:1.11
 display-url-api:latest
 docker-commons:latest
 docker-workflow:latest
